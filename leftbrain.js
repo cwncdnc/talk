@@ -137,7 +137,6 @@ var ldraw = function() {
           case 'a':lcycle(0);break;case 'b':lcycle(1);break;
           case 'c':lcycle(2);break;case 'd':lcycle(3);break;
           case 'e':lcycle(4);break;case 'f':lcycle(5);break;
-          
           case 'g':lcycle(6);break;case 'h':lcycle(7);break;
           case 'i':lcycle(8);break;case 'j':lcycle(9);break;
           case 'k':lcycle(10);break;case 'l':lcycle(11);break;

@@ -9,7 +9,7 @@ var ltrip= [
 		"nft","obt","pct","qat","ret","sht","tyt","uit","vut","wmt","xpt","ykt","zdt"];
 var ltripcode=0;
 var initleft = function() {
-		word = [
+		 = [
 			"latency","agony","memory","envy","identity","authority","certainty","transparency",
 			"analogy","conformity","catastrophe","serenity","tenacity","practicality","humility","epiphany",
 			"complexity","simplicity","normality","absurdity","anxiety","sobriety","urgency","emergency",
